@@ -22,7 +22,7 @@
 
 ![DASHBORD](https://github.com/Abhijeet7400/marketing-campaign-analysis-dashboard/blob/main/1st%20dash%20image%206.png)
 
-## REGIONAL INSIGHTS DASHBOARD
+## REGIONAL DATA DASHBOARD
 
 ![DASHBORD](https://github.com/Abhijeet7400/marketing-campaign-analysis-dashboard/blob/main/1st%20dash%20image%207.png)
 
