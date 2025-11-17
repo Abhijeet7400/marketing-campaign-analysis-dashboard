@@ -1,6 +1,6 @@
 ## OVERVIEW DASHBOARD
 
-#📊 Introduction: Showcases my interactive Marketing Campaign Analysis dashboard, created to assess campaign effectiveness and drive actionable business intelligence.
+**📊 Introduction: Showcases my interactive Marketing Campaign Analysis dashboard, created to assess campaign effectiveness and drive actionable business intelligence.
 
 #🎯 Dashboard Purpose: Outlines the dashboard’s role in evaluating audience engagement, platform performance, device usage, conversions, campaign, and regional metrics for strategic decision-making.
 
