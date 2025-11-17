@@ -21,7 +21,7 @@
 
 ## AUDIENCE INSIGHTS DASHBOARD
 
-### 🧩 Audience Analysis:# Segments users by interest and demographics, demonstrating high ROI and showing which age groups, genders, and audience types contribute most to business growth.
+### 🧩 Audience Analysis: Segments users by interest and demographics, demonstrating high ROI and showing which age groups, genders, and audience types contribute most to business growth.
 
 ![DASHBORD](https://github.com/Abhijeet7400/marketing-campaign-analysis-dashboard/blob/main/1st%20dash%20image%203.png)
 
