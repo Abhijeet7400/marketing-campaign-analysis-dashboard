@@ -1,12 +1,12 @@
 ## OVERVIEW DASHBOARD
 
-**📊 Introduction: Showcases my interactive Marketing Campaign Analysis dashboard, created to assess campaign effectiveness and drive actionable business intelligence.
+📊 Introduction: Showcases my interactive Marketing Campaign Analysis dashboard, created to assess campaign effectiveness and drive actionable business intelligence.
 
-#🎯 Dashboard Purpose: Outlines the dashboard’s role in evaluating audience engagement, platform performance, device usage, conversions, campaign, and regional metrics for strategic decision-making.
+🎯 Dashboard Purpose: Outlines the dashboard’s role in evaluating audience engagement, platform performance, device usage, conversions, campaign, and regional metrics for strategic decision-making.
 
-#🗂️ Data Sources: Integrates diverse data sets—marketing analytics, CRM, demographics, social and e-commerce platforms—to ensure holistic performance measurement across all marketing touchpoints.
+🗂️ Data Sources: Integrates diverse data sets—marketing analytics, CRM, demographics, social and e-commerce platforms—to ensure holistic performance measurement across all marketing touchpoints.
 
-#🌐 Marketing Overview: Provides a birds-eye view of impressions, click-through rates, total revenue, costs, ROI, and comparative sales analysis across region, platform, device, and audiences.
+# 🌐 Marketing Overview: Provides a birds-eye view of impressions, click-through rates, total revenue, costs, ROI, and comparative sales analysis across region, platform, device, and audiences.
 
 #📈 Key Metrics & KPIs: Highlights performance at a glance—Instagram and Twitter lead in revenue, Google in cost efficiency, and ROI/cost/conversion metrics inform budget allocation and strategy refinement.
 
